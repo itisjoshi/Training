@@ -8,7 +8,6 @@ int fact(int n){
 		}
 		else{
 			return fact(n-1)*n;
-		
+		}
 	}
-}
 }
